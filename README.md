@@ -1,3 +1,4 @@
 # LabApps
 
-Vou colocar aqui todas as tralhas do desenvolvimento.
+Repositório dedicado ao Laboratório de Aplicações do TESP de Torres Vedras.
+
