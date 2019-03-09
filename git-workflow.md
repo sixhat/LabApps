@@ -1,4 +1,4 @@
-# Sequência normal de trabalho com git.
+# Sequência típica de trabalho com git.
 
 1. Clonar um repositório
 2. Checkout de uma versão
