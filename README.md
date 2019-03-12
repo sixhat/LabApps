@@ -5,6 +5,8 @@ Repositório dedicado ao Laboratório de Aplicações do TESP de Torres Vedras.
 # Membros dos Grupos
 
 
+Joana Reis e Tiago Lopes
+
 Rodrigo e Francsico
 
 Pedro Ventura e José Pinto
