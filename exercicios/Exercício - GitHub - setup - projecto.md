@@ -7,6 +7,7 @@
 1. Criar um repositório Github para o projecto final.
 2. Adicionar membros de equipa ao projecto.
 3. Criar um [Trello](https://trello.com/) para a equipa e adicionar os membros.
+   1. O professor é **sixhat** no GitHub e [@davidrodrigues](https://trello.com/davidrodrigues) no Trello.
 4. Estruturar o projecto pelas diversas fases.
    1. Criar uma pasta para cada fase.
    2. Em cada pasta criar um ficheiro com os requisitos necessários para essa fase.
