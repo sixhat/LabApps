@@ -1,7 +1,7 @@
 # Membros dos Grupos de Trabalho
 
 1. [João Carvalho Jorge Antunes](https://github.com/carvalho4c/TrabalhodeGrupo)
-2. Diogo Barão e Duarte Silva
+2. Diogo Barão e Duarte Silva - [Trello](https://trello.com/b/YXLaSmdF/school-plans)
 3. Joana Reis e Tiago Lopes
 4. [Rodrigo Sousa e Francisco Vale](https://github.com/FranciscoLVale/WOW) - [Trello](https://trello.com/b/ivFcFrtu/wow)
 5. Pedro Ventura e José Pinto
