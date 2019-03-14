@@ -8,13 +8,13 @@ As fontes escolhidas devem ser seleccionadas a partir do [Google Fonts](https://
 
 Cada aluno/grupo escolherá um painel subordinado a um adjectivo:
 
-* Confiança
-* Feminino
-* Profissional
-* Elegante
-* Maturidade
-* Regular
-* Divertido
+* Confiança - Pedro Ventura e Zé
+* Feminino - André e Pedro Cunha.
+* Profissional - Jorge e João
+* Elegante - Inês e Bruna
+* Maturidade - Diogo e Duarte
+* Regular - Rodrigo e Francisco
+* Divertido - Tiago e Joana
 
 Exemplo
 
