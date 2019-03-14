@@ -5,5 +5,5 @@
 3. Joana Reis e Tiago Lopes
 4. [Rodrigo Sousa e Francisco Vale](https://github.com/FranciscoLVale/WOW)
 5. Pedro Ventura e José Pinto
-6. Bruna Gigante e Inês Santos
+6. [Bruna Gigante e Inês Santos](https://github.com/inesilvasantos/AnatomiadaTipografia) - [Trello](https://trello.com/b/KPYiftOk/anatomia-da-tipografia)
 7. André Rosado
