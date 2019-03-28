@@ -1,6 +1,6 @@
 # Membros dos Grupos de Trabalho
 
-1. [João Carvalho Jorge Antunes](https://github.com/Jorzantunes/Empresa) - [Trello](https://trello.com/b/Z67dUcBG/projeto)
+1. [João Carvalho Jorge Antunes](https://github.com/Jorzantunes/GOL-s) - [Trello](https://trello.com/b/Z67dUcBG/projeto)
 2. [Diogo Barão e Duarte Silva](https://github.com/DiogoBaraoo/school-plan) - [Trello](https://trello.com/b/YXLaSmdF/school-plans)
 3. [Joana Reis e Tiago Lopes](https://github.com/JoanaR99/WaveDesign) - [Trello Wave Design](https://trello.com/b/pNK2hQ8C/wave-design)
 4. [Rodrigo Sousa e Francisco Vale](https://github.com/FranciscoLVale/WOW) - [Trello](https://trello.com/b/ivFcFrtu/wow)
