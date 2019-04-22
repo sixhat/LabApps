@@ -197,3 +197,5 @@ O prototipagem de alta fidelidade pode ser executada recorrendo a ferramentas on
 - [Invision App](https://www.invisionapp.com/)
 - [Adobe XD](https://www.adobe.com/products/xd.html)
 - [Figma](https://www.figma.com/)
+
+A prototipagem de alta fidelidade é muitas vezes utilizada em Web Design para testar a legibilidade do design. Um _mockup_ digital de alta fidelidade é impresso e pede-se ao utilizador para identificar certos elementos, como a navegação, os elementos clicáveis, etc.
